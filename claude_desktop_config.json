@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "c:/Users/athul/PycharmProjects/pythonProject1/weather",
+        "run",
+        "weather.py"
+      ]
+    }
+  }
+}
