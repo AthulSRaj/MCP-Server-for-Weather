@@ -4,7 +4,7 @@
       "command": "uv",
       "args": [
         "--directory",
-        "c:/Users/athul/PycharmProjects/pythonProject1/weather",
+        "c:/Users/directory/with/folder",
         "run",
         "weather.py"
       ]
